@@ -6,3 +6,4 @@ Principios de Composición y Diseño / estamos viendo principios de photoshop y 
 	Diseño de Videojuegos / estamos haciendo 4 videojuegos y aprendiendo los principios del juego  / GUERRERO MERCHANT HECTOR
 
 	creando la versión 1.0.0 de este repositorio.
+	creando la versión 1.1.0 de este repositorio
